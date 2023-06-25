@@ -53,6 +53,8 @@ body {
   background-color: #F0F8FF;
   color: #0D84FF;
 
+  border-style: none;
+  border: 2px solid;
   border-radius: 20px 20px 20px 2px;
   border-color: #0D84FF;
 
