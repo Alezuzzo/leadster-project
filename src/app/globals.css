@@ -74,3 +74,83 @@ body {
   right: 430px;
   height: 25px;
 }
+
+.demoSection {
+  display: flex;
+  flex-direction: row; 
+}
+
+.divDemoImg img{
+  height: 600px;
+  width: 600px;
+  margin: 40px 20px 0 100px;
+}
+
+.divDemoCTA {
+  margin: 200px 100px 0 10px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;  
+}
+
+.divDemoCTA h1 {
+  font-size: 30px;
+}
+
+.divDemoCTA h2 {
+  font-size: 15px;
+  margin-right: 40%;
+  margin-top: -40px;
+}
+
+.divDemoCTA h2:after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  background-color: rgb(153, 153, 153);
+}
+
+.divDemoCTA p {
+  font-size: 10px;
+  font-weight: bolder;
+  margin-bottom: 200px;
+}
+
+.buttonDemo {
+  color: #F0F8FF;
+  font-weight: bolder;
+  flex-basis: 40%;
+  margin-right: 2%;
+  height: 50px;
+  border-radius: 30px;
+  border-style: none;
+  background-color: #0D84FF;
+  cursor: pointer;
+}
+
+.buttonDemo:hover {
+  color: #0D84FF;
+  background-color: #F0F8FF;
+}
+
+.seloRD {
+  height: 50px;
+  margin: 0 25% 0 2%;
+  flex-basis: 30%;
+}
+
+.ratingStar {
+  width: 60px;
+  height: 10px;
+  padding: 10px;
+  margin-bottom: 190px;
+}
+
+.noCard {
+  height: 10px;
+  width: 10px;
+  padding: 10px;
+  margin-bottom: 190px;
+}
+

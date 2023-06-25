@@ -1,6 +1,6 @@
 import React from 'react'
 
-function WebinarSection() {
+function SecaoWebinar() {
   return (
     <div className='webinarSection'>
         <button className='buttonWebinar'>
@@ -8,10 +8,10 @@ function WebinarSection() {
         </button>
         <h3>Menos conversinha,</h3>
         <h1>Mais Conversão</h1>
-        <img src="/img/asset-header.png" alt=""  className='headerLogo'/>
+        <img src="/img/asset-header.png" alt="Logo Header"  className='headerLogo'/>
         <p>Conheça as estratégias que mudaram o jogo e como aplicá-las no seu negócio</p>
     </div>
   )
 }
 
-export default WebinarSection
+export default SecaoWebinar
