@@ -135,6 +135,7 @@ body {
 .buttonDemo:hover {
   color: #0D84FF;
   background-color: #F0F8FF;
+  border: 1px solid #0D84FF;
 }
 
 .seloRD {
