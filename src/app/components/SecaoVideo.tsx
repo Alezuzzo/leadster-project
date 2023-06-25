@@ -2,7 +2,7 @@ import React from 'react'
 
 function SecaoVideo() {
   return (
-    <section>
+    <section className='videoSection'>
         <div className='buttonsVideo'>
             <button>
                 Agências
@@ -25,8 +25,43 @@ function SecaoVideo() {
                 <option value="data">Data de Publicação</option>
             </select>
         </div>
-        <div>
-
+        <div className='videosDiv'>
+            <div className='containerVideo'>
+                <img src="/img/thumbnail.png" alt="thumbnail" />
+                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
+            </div>
+            <div className='containerVideo'>
+                <img src="/img/thumbnail.png" alt="thumbnail" />
+                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
+            </div>
+            <div className='containerVideo'>
+                <img src="/img/thumbnail.png" alt="thumbnail" />
+                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
+            </div>
+            <div className='containerVideo'>
+                <img src="/img/thumbnail.png" alt="thumbnail" />
+                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
+            </div>
+            <div className='containerVideo'>
+                <img src="/img/thumbnail.png" alt="thumbnail" />
+                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
+            </div>
+            <div className='containerVideo'>
+                <img src="/img/thumbnail.png" alt="thumbnail" />
+                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
+            </div>
+            <div className='containerVideo'>
+                <img src="/img/thumbnail.png" alt="thumbnail" />
+                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
+            </div>
+            <div className='containerVideo'>
+                <img src="/img/thumbnail.png" alt="thumbnail" />
+                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
+            </div>
+            <div className='containerVideo'>
+                <img src="/img/thumbnail.png" alt="thumbnail" />
+                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
+            </div>
         </div>
     </section>
   )
