@@ -4,6 +4,7 @@ import Header from './components/Header'
 import SecaoWebinar from './components/SecaoWebinar'
 import SecaoDemo from './components/SecaoDemo'
 import Footer from './components/Footer'
+import SecaoVideo from './components/SecaoVideo'
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <div>
         <Header/>
         <SecaoWebinar/>
+        <SecaoVideo/>
         <SecaoDemo/>
         <Footer/>
       </div>
