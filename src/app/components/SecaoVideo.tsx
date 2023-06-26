@@ -30,38 +30,7 @@ function SecaoVideo() {
                 <img src="/img/thumbnail.png" alt="thumbnail" />
                 <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
             </div>
-            <div className='containerVideo'>
-                <img src="/img/thumbnail.png" alt="thumbnail" />
-                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
-            </div>
-            <div className='containerVideo'>
-                <img src="/img/thumbnail.png" alt="thumbnail" />
-                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
-            </div>
-            <div className='containerVideo'>
-                <img src="/img/thumbnail.png" alt="thumbnail" />
-                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
-            </div>
-            <div className='containerVideo'>
-                <img src="/img/thumbnail.png" alt="thumbnail" />
-                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
-            </div>
-            <div className='containerVideo'>
-                <img src="/img/thumbnail.png" alt="thumbnail" />
-                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
-            </div>
-            <div className='containerVideo'>
-                <img src="/img/thumbnail.png" alt="thumbnail" />
-                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
-            </div>
-            <div className='containerVideo'>
-                <img src="/img/thumbnail.png" alt="thumbnail" />
-                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
-            </div>
-            <div className='containerVideo'>
-                <img src="/img/thumbnail.png" alt="thumbnail" />
-                <div className='description'>Como aumentar sua Geração de Leads feat. Traktor</div>
-            </div>
+            
         </div>
     </section>
   )
